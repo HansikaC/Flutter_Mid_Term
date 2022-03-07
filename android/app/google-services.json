@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148573639022",
+    "project_id": "mad-midterm-9ab20",
+    "storage_bucket": "mad-midterm-9ab20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148573639022:android:53e9c43d6a7cc3389f317f",
+        "android_client_info": {
+          "package_name": "com.example.mad_assignment_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148573639022-8l68i1gl8voo5cqc3c9ub3fir30dg6ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGxiHbDpncGD-ORMQ_WgKb24z79ZNA_4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148573639022-8l68i1gl8voo5cqc3c9ub3fir30dg6ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
